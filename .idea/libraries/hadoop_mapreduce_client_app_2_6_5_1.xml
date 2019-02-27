@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-client-app-2.6.5.1">
+    <CLASSES>
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.6.5-tests.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.6.5.jar!/" />
+      <root url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/mapreduce/lib" recursive="false" />
+  </library>
+</component>

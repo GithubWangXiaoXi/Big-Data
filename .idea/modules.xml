@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Big Data.iml" filepath="$PROJECT_DIR$/Big Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3_zookeeper/Day3_zookeeper.iml" filepath="$PROJECT_DIR$/Day3_zookeeper/Day3_zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day5_RPC/Day5_RPC.iml" filepath="$PROJECT_DIR$/Day5_RPC/Day5_RPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day6_Hadoop/Day6_Hadoop.iml" filepath="$PROJECT_DIR$/Day6_Hadoop/Day6_Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day7_Hadoop/Day7_Hadoop.iml" filepath="$PROJECT_DIR$/Day7_Hadoop/Day7_Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day8_Hadoop/Day8_Hadoop.iml" filepath="$PROJECT_DIR$/Day8_Hadoop/Day8_Hadoop.iml" />
+    </modules>
+  </component>
+</project>

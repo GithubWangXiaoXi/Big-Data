@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://D:/programingSoftware/IDEA/Big Data/hadoop-2.6.5的jar包/share/hadoop/common/hadoop-common-2.6.5.jar!/" />
+      <root url="file://D:/programingSoftware/IDEA/Big Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/programingSoftware/IDEA/Big Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" recursive="false" />
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

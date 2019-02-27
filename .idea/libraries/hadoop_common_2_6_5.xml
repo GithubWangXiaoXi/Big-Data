@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="hadoop-common-2.6.5">
+    <CLASSES>
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/common/hadoop-common-2.6.5.jar!/" />
+      <root url="jar://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/hdfs/hadoop-hdfs-2.6.5.jar!/" />
+      <root url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" />
+      <root url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/hdfs/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" />
+      <root url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/hdfs/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" recursive="false" />
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/hdfs/lib" recursive="false" />
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://D:/programingSoftware/IDEA/Big_Data/hadoop-2.6.5的jar包/share/hadoop/hdfs/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

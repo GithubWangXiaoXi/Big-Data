@@ -1,0 +1,1 @@
+/tmp/hadoop-Administrator/mapred/local/1535548615361/product.txt
